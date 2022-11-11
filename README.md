@@ -7,7 +7,7 @@ Materials to reproduce the results of the paper submitted to [Journal](https://w
 *[Uncertain-CAM: Uncertainty Based Ensemble Machine Voting for Improved COVID-19 CXR Classification and Explainability](https://www.)*
 
 ****
-![Screenshot](graphical_abstract.jpg)
+![Screenshot](cam.png)
 
 
 ## Data
